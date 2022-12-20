@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Carolina Torrente, I'm from Madrid and I'm studying Data Science and Engineering (in english)
+My name is Carolina Torrente, I'm from Spain and I'm studying Data Science and Engineering (in english)
 
 ## SKILLS
 
