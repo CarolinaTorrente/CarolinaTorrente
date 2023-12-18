@@ -3,8 +3,9 @@ My name is Carolina Torrente, I'm from Spain/France and I'm studying Data Scienc
 
 ## SKILLS
 
-+ Python: object oriented programming
++ Python: object oriented programming, data mining
 + Rstudio: Supervised and Unsupervised Machine learning tools (classification, regression, prediction, tunning hyperparameters, deep learning...)
++ Web development: html, css, node js, mongo and javascript
 + Oracle VN Virtual box: IP, interface and servers configuration
 + Oracle SQL, MongoDB, Neo4j: data base administration (creation, management, queries, triggers...)
 + French and Spanish as native languages
