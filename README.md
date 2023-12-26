@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is Carolina Torrente, I'm from Spain/France and I'm studying Data Science and Engineering (in english)
+My name is Carolina Torrente, I am a Data Science and Engineering student and I am fluent in English, Spanish and French
 
 ## SKILLS
 
@@ -11,9 +11,5 @@ My name is Carolina Torrente, I'm from Spain/France and I'm studying Data Scienc
 + French and Spanish as native languages
 + Advanced level in English
 
-<!--
-**CarolinaTorrente/CarolinaTorrente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
