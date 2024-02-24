@@ -3,7 +3,7 @@ My name is Carolina Torrente, I am a Data Science and Engineering student and I 
 
 ## SKILLS
 
-+ Python: object oriented programming, data mining, Tensorflow, recursion 
++ Python: object oriented programming, data mining, Tensorflow, Image Processing and recursion 
 + Rstudio: Supervised and Unsupervised Machine learning tools (classification, regression, prediction, tunning hyperparameters, deep learning...)
 + Web development: html, css, node js, mongo and javascript
 + Cloudlab: Hadoop, PySpark, AWS.
